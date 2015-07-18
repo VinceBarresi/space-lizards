@@ -4,11 +4,11 @@ Space Lizards is a 2D space shooting game written in Actionscript.
 
 ## Controls ##
 
-Left Key - Move Backward
-Right Key - Move Forward
-Up Key - Move Upward
-Down Key - Move Downward
-Spacebar - Shoot
+- Left Key - Move Backward
+- Right Key - Move Forward
+- Up Key - Move Upward
+- Down Key - Move Downward
+- Spacebar - Shoot
 
 ## Gameplay ##
 
